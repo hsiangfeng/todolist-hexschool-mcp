@@ -22,4 +22,4 @@ npm install
 
 ## 教學文章
 
-- [MCP Server 使用教學](https://israynotarray.com/ai/20250523/980109919/)
+- [打造 AI Agent 專屬 MCP Server：整合 GitHub Copilot Chat 的完整實作教學](https://israynotarray.com/ai/20250523/980109919/)
